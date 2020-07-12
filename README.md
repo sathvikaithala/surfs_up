@@ -2,6 +2,8 @@
 UC Berkeley Extension Data Analytics Boot Camp Module 9
 ---
 
+<i>The challenge assignment is in "climate_analysis.ipynb"</i>.
+
 ### Objective:
 
 In the Challenge Assignment, we were asked to compare the weather observed in June and December to help determine the viability of our Surf Shop. After doing so, we were asked to provide a couple recommendations to improve our analysis.
